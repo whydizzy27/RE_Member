@@ -42,7 +42,7 @@
 
 | Chrome | Safari |
 | ---------- | :--------- |
-| <img src="/uploads/e46c65c61f1dcf704e6c3748642cf299/image.png"  width="100" height="100">  | <img src="/uploads/8d0d0075d2d2c44b237e5a4f23e45f37/image.png"  width="100" height="100">       |
+| <img src="https://user-images.githubusercontent.com/67194249/92308831-941c9980-efdb-11ea-9592-aa04b8a2299c.png"  width="100" height="100">  | <img src="/uploads/8d0d0075d2d2c44b237e5a4f23e45f37/image.png"  width="100" height="100">       |
 
 ### 📃 주요기능 소개
 
