@@ -42,7 +42,7 @@
 
 | Chrome | Safari |
 | ---------- | :--------- |
-| <img src="https://user-images.githubusercontent.com/67194249/92308831-941c9980-efdb-11ea-9592-aa04b8a2299c.png"  width="100" height="100">  | <img src="/uploads/8d0d0075d2d2c44b237e5a4f23e45f37/image.png"  width="100" height="100">       |
+| <img src="https://user-images.githubusercontent.com/67194249/92308831-941c9980-efdb-11ea-9592-aa04b8a2299c.png"  width="100" height="100">  | <img src="https://user-images.githubusercontent.com/67194249/92308877-df36ac80-efdb-11ea-99b6-3476e5025e88.png"  width="100" height="100">       |
 
 ### 📃 주요기능 소개
 
@@ -50,42 +50,49 @@
 
 지역, 기술스택 매칭, 완료 프로젝트 수를 기반으로 점수를 도출해내어 팀원과 프로젝트 맞춤형 추천
 
-![image](/uploads/f0c33d8eb64fd35d551b381bbd3e62d7/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308887-f6759a00-efdb-11ea-8cdb-9903c353fb9e.png)
 
-![image](/uploads/4d29f471a648377fbf09e5ee68ed3edb/image.png)
+
+![image](https://user-images.githubusercontent.com/67194249/92308894-0e4d1e00-efdc-11ea-9bf8-aaf981c6d12c.png)
+
 
 
 #### 인재풀
 
 위치, 기술스택, 아이디 기반 프로젝트 팀원 찾기
 
-![image](/uploads/7a0d23d99047fcc5e4ec0c8acef2e6e8/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308900-1a38e000-efdc-11ea-9261-938d8ff3082e.png)
+
 
 #### 구인
 
 위치, 기술스택, 작성자명/구인글 제목 기반 구인글 찾기
 
-![image](/uploads/72c2401c4795c26d846e6e5ccdf67128/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308934-3046a080-efdc-11ea-91c3-073168127116.png)
+
 
 #### 실시간 채팅
 
 함께하고자 하는 인재나 팀원들과 실시간으로 채팅 가능
 
-![image](/uploads/b62b6e82f2ebd5662933f0653384e241/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308943-3d638f80-efdc-11ea-9f09-c6f4d3732d32.png)
+
 
 #### 프로젝트 이슈 관리페이지
 
 프로젝트 계획, 진행상황, 팀원 관리 페이지
 
-![image](/uploads/6c048969aed47b519040da8aa999dca2/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308958-4f453280-efdc-11ea-89d6-0b8b63ea58ae.png)
 
-![image](/uploads/b992d1eb01b4d1d40b0fc9392769a4ef/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308971-59673100-efdc-11ea-9264-5498e285872b.png)
+
 
 #### 팀 모임 중간위치 찾기 및 주변 카페 검색
 
 원활한 팀 미팅을 위해 중간 지점을 찾아주고 주변 카페 검색 가능
 
-![image](/uploads/03318039a858baa710d6f7e61c222cac/image.png)
+![image](https://user-images.githubusercontent.com/67194249/92308979-67b54d00-efdc-11ea-8db0-6bbd0c4362ee.png)
+
 
 
 ### :six_pointed_star: 기대 효과
